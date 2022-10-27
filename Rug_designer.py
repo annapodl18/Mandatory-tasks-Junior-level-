@@ -6,7 +6,7 @@
 
 #Задание: написать программу, которая будет составлять макет коврика для его дальнейшего производства.
 print('Задание 5')
-print('Enter height :')
+print('Enter height  :')
 height = int(input())
 width = height * 3
 
